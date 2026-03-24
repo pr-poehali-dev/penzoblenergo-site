@@ -38,10 +38,11 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-between h-16 md:h-20">
             <Link to="/" className="flex items-center gap-3 group">
-              <div className="relative w-10 h-10 flex items-center justify-center">
-                <div className="absolute inset-0 bg-energy-yellow/20 rounded-full group-hover:bg-energy-yellow/30 transition-all duration-300" />
-                <Icon name="Zap" size={22} className="text-energy-yellow animate-electric relative z-10" />
-              </div>
+              <img
+                src="https://cdn.poehali.dev/projects/3115fc60-c3b5-469a-a5ad-ac39a8bf7243/files/f459de85-cc4f-4c52-a6e6-bd86fcca794e.jpg"
+                alt="ПензОблЭнерго"
+                className="w-10 h-10 rounded-full object-cover group-hover:scale-105 transition-transform duration-300"
+              />
               <div>
                 <div className="font-oswald text-lg font-bold leading-none text-white tracking-wider">
                   ПЕНЗ<span className="text-energy-yellow">ОБЛ</span>ЭНЕРГО
@@ -133,7 +134,11 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             <div>
               <div className="flex items-center gap-3 mb-4">
-                <Icon name="Zap" size={20} className="text-energy-yellow" />
+                <img
+                  src="https://cdn.poehali.dev/projects/3115fc60-c3b5-469a-a5ad-ac39a8bf7243/files/f459de85-cc4f-4c52-a6e6-bd86fcca794e.jpg"
+                  alt="ПензОблЭнерго"
+                  className="w-9 h-9 rounded-full object-cover"
+                />
                 <span className="font-oswald font-bold text-white tracking-wider">
                   ПЕНЗ<span className="text-energy-yellow">ОБЛ</span>ЭНЕРГО
                 </span>
