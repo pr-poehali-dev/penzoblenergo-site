@@ -221,7 +221,7 @@ const Apply = () => {
                 <ul className="space-y-4">
                   {[
                     { icon: "Phone", label: "Телефон", value: "+7 (996) 804-12-46" },
-                    { icon: "Mail", label: "Email", value: "info@penzoblenergo.ru" },
+                    { icon: "Mail", label: "Email", value: "ynandreev058@gmail.com" },
                     { icon: "MapPin", label: "Офис", value: "г. Пенза, ул. Московская, 1" },
                     { icon: "Clock", label: "Режим работы", value: "Пн–Пт: 8:00–18:00" },
                   ].map(({ icon, label, value }) => (

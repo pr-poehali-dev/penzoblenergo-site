@@ -180,7 +180,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
                 {[
                   { icon: "MapPin", text: "г. Пенза, ул. Московская, 1" },
                   { icon: "Phone", text: "+7 (996) 804-12-46" },
-                  { icon: "Mail", text: "info@penzoblenergo.ru" },
+                  { icon: "Mail", text: "ynandreev058@gmail.com" },
                   { icon: "Clock", text: "Пн-Пт: 8:00 — 18:00" },
                 ].map(({ icon, text }) => (
                   <li key={text} className="flex items-start gap-2">
