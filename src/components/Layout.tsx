@@ -74,11 +74,11 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
 
             <div className="hidden lg:flex items-center gap-3">
               <a
-                href="tel:+78412000000"
+                href="tel:+79968041246"
                 className="flex items-center gap-2 text-sm text-muted-foreground hover:text-white transition-colors"
               >
                 <Icon name="Phone" size={14} className="text-energy-yellow" />
-                8 (8412) 00-00-00
+                +7 (996) 804-12-46
               </a>
               <Link to="/cabinet" className="btn-energy px-5 py-2 rounded-lg text-sm font-oswald tracking-wide">
                 Войти
@@ -112,11 +112,11 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
               ))}
               <div className="pt-3 border-t border-border mt-2 flex flex-col gap-3">
                 <a
-                  href="tel:+78412000000"
+                  href="tel:+79968041246"
                   className="flex items-center gap-2 text-sm text-muted-foreground"
                 >
                   <Icon name="Phone" size={14} className="text-energy-yellow" />
-                  8 (8412) 00-00-00
+                  +7 (996) 804-12-46
                 </a>
                 <Link to="/cabinet" className="btn-energy px-5 py-2 rounded-lg text-sm font-oswald tracking-wide text-center">
                   Войти в личный кабинет
@@ -179,7 +179,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
               <ul className="space-y-3">
                 {[
                   { icon: "MapPin", text: "г. Пенза, ул. Московская, 1" },
-                  { icon: "Phone", text: "8 (8412) 00-00-00" },
+                  { icon: "Phone", text: "+7 (996) 804-12-46" },
                   { icon: "Mail", text: "info@penzoblenergo.ru" },
                   { icon: "Clock", text: "Пн-Пт: 8:00 — 18:00" },
                 ].map(({ icon, text }) => (
@@ -199,10 +199,10 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
                   <span className="text-xs text-green-400 font-golos">Работает 24/7</span>
                 </div>
                 <a
-                  href="tel:+78412112233"
+                  href="tel:+79968041246"
                   className="text-2xl font-oswald font-bold text-energy-yellow hover:text-energy-orange transition-colors"
                 >
-                  8 (8412) 11-22-33
+                  +7 (996) 804-12-46
                 </a>
                 <p className="text-xs text-muted-foreground font-golos mt-1">Звонок бесплатный</p>
               </div>

@@ -292,7 +292,7 @@ const Tariffs = () => {
             <p className="font-golos text-muted-foreground mb-6 max-w-md mx-auto">
               Наши специалисты помогут подобрать оптимальный тариф и рассчитают возможную экономию
             </p>
-            <a href="tel:+78412000000" className="btn-energy px-8 py-3 rounded-xl inline-flex items-center gap-2 font-oswald tracking-wide">
+            <a href="tel:+79968041246" className="btn-energy px-8 py-3 rounded-xl inline-flex items-center gap-2 font-oswald tracking-wide">
               <Icon name="Phone" size={16} />
               Позвонить консультанту
             </a>

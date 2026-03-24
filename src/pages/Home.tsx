@@ -299,7 +299,7 @@ const Home = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="tel:+78412000000"
+              href="tel:+79968041246"
               className="btn-energy px-8 py-4 rounded-xl inline-flex items-center justify-center gap-2 font-oswald tracking-wide"
             >
               <Icon name="Phone" size={18} />

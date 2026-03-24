@@ -220,7 +220,7 @@ const Apply = () => {
                 <h3 className="font-oswald text-lg font-bold text-white mb-4">КОНТАКТЫ</h3>
                 <ul className="space-y-4">
                   {[
-                    { icon: "Phone", label: "Телефон", value: "8 (8412) 00-00-00" },
+                    { icon: "Phone", label: "Телефон", value: "+7 (996) 804-12-46" },
                     { icon: "Mail", label: "Email", value: "info@penzoblenergo.ru" },
                     { icon: "MapPin", label: "Офис", value: "г. Пенза, ул. Московская, 1" },
                     { icon: "Clock", label: "Режим работы", value: "Пн–Пт: 8:00–18:00" },
@@ -243,8 +243,8 @@ const Apply = () => {
                   <div className="w-2 h-2 bg-red-400 rounded-full animate-pulse" />
                   <span className="font-oswald text-sm font-bold text-white">АВАРИЙНАЯ СЛУЖБА</span>
                 </div>
-                <a href="tel:+78412112233" className="font-oswald text-2xl font-bold text-energy-yellow hover:text-energy-orange transition-colors block mb-1">
-                  8 (8412) 11-22-33
+                <a href="tel:+79968041246" className="font-oswald text-2xl font-bold text-energy-yellow hover:text-energy-orange transition-colors block mb-1">
+                  +7 (996) 804-12-46
                 </a>
                 <div className="font-golos text-xs text-muted-foreground">Круглосуточно, бесплатно</div>
               </div>

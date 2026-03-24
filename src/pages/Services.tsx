@@ -152,9 +152,9 @@ const Services = () => {
               <p className="font-golos text-muted-foreground">Позвоните нам — решим любой вопрос по электроснабжению</p>
             </div>
             <div className="flex flex-col sm:flex-row gap-4 shrink-0">
-              <a href="tel:+78412000000" className="btn-energy px-6 py-3 rounded-xl inline-flex items-center gap-2 font-oswald tracking-wide">
+              <a href="tel:+79968041246" className="btn-energy px-6 py-3 rounded-xl inline-flex items-center gap-2 font-oswald tracking-wide">
                 <Icon name="Phone" size={16} />
-                8 (8412) 00-00-00
+                +7 (996) 804-12-46
               </a>
               <Link to="/apply" className="btn-outline-energy px-6 py-3 rounded-xl inline-flex items-center gap-2">
                 <Icon name="MessageSquare" size={16} />
