@@ -39,7 +39,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
           <div className="flex items-center justify-between h-16 md:h-20">
             <Link to="/" className="flex items-center gap-3 group">
               <img
-                src="https://cdn.poehali.dev/projects/3115fc60-c3b5-469a-a5ad-ac39a8bf7243/files/f459de85-cc4f-4c52-a6e6-bd86fcca794e.jpg"
+                src="https://cdn.poehali.dev/projects/3115fc60-c3b5-469a-a5ad-ac39a8bf7243/files/409a2da9-bce8-4110-802d-fdf2357b1a96.jpg"
                 alt="ПензОблЭнерго"
                 className="w-10 h-10 rounded-full object-cover group-hover:scale-105 transition-transform duration-300"
               />
@@ -135,7 +135,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
             <div>
               <div className="flex items-center gap-3 mb-4">
                 <img
-                  src="https://cdn.poehali.dev/projects/3115fc60-c3b5-469a-a5ad-ac39a8bf7243/files/f459de85-cc4f-4c52-a6e6-bd86fcca794e.jpg"
+                  src="https://cdn.poehali.dev/projects/3115fc60-c3b5-469a-a5ad-ac39a8bf7243/files/409a2da9-bce8-4110-802d-fdf2357b1a96.jpg"
                   alt="ПензОблЭнерго"
                   className="w-9 h-9 rounded-full object-cover"
                 />
